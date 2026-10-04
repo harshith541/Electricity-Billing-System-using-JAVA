@@ -14,6 +14,7 @@ A desktop-based Electricity Billing System developed using Java Swing.
 - Java
 - Java Swing
 - NetBeans
+- MySql
 
 ## Project Description
 
